@@ -1,1 +1,1 @@
-console.log('Main Server File');
+// Admin panel main JS file

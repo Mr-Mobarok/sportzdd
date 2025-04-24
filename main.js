@@ -1,1 +1,1 @@
-console.log('Sportzdd App');
+// App main JS file
